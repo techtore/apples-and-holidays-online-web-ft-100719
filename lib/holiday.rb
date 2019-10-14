@@ -74,7 +74,7 @@ def all_holidays_with_bbq(holiday_hash)
   if "#{supply}" == "BBQ"
     return "#{:holiday}"
   end
-
+end
 end
 
 
